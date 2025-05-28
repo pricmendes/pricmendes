@@ -12,14 +12,14 @@
 
 #### Ferramentas e Tecnologias que já adquiri conhecimento e que já consigo praticar:
 
-![Excel]()
-![SQL]()
-![PowerBi]()
-![Python]()
-![Pandas]()
-![Jupyter]()
-![VS Code]()
-![Google Colab]()
+![Excel]'()
+![SQL]'()
+![PowerBi]'()
+![Python]'()
+![Pandas]'()
+![Jupyter]'()
+![VS Code]'()
+![Google Colab]'()
 
 
 
