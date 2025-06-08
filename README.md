@@ -18,7 +18,11 @@
 
 SQL
 
-Python
+[Python Estrutura de Dados](https://github.com/pricmendes/estudos/blob/estudos/Estrutura_de_Dados.md)
+
+[Python Diversos Estudos](https://github.com/pricmendes/estudos/blob/estudos/lista_tarefas_e_outros.md)
+
+[Airflow](https://github.com/pricmendes/estudos/blob/estudos/Airflow.md)
 
 Pandas
 
