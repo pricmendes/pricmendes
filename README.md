@@ -24,14 +24,6 @@ SQL
 
 [Airflow](https://github.com/pricmendes/estudos/blob/estudos/Airflow.md)
 
-Pandas
-
-Jupyter
-
-VS Code
-
-Google Colab
-
 
 <!--
 ![Excel]'()
