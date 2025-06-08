@@ -1,28 +1,38 @@
-## Olá pessoal me chamo Priscila Mendes, sejam bem vindos👋
+# Olá, eu sou a Priscila Mendes Cardoso 👋
+
+Sou **Analista de Dados**, apaixonada por transformar dados em insights e soluções de negócio. Meu foco principal é em **Banco de Dados**.
+
+- 🔭 Atualmente aprofundando meus conhecimentos em engenharia de dados.
+- 🌱 Buscando sempre novos desafios para aplicar e expandir minhas habilidades.
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/priscila-mendes-sp/).
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
 
-#### Estou focada nos estudos de programação, estatística, busco conhecimento e experiência prática.Aos poucos irei colocando alguns dos trabalhos realizados.
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
-- 🔭 Atualmente estudo Ciência de Dados e Banco de Dados
-- [Meu Linkedin](https://www.linkedin.com/in/priscila-mendes-sp/)
-  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,mysql,postgres,gcp,docker" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=powershell,excel,powerbi,vba,airflow" />
+  </a>
+</p>
+
 ---
 
-#### Ferramentas e Tecnologias que já adquiri conhecimento e que já consigo praticar:
+## 🚀 Meus Projetos em Destaque
 
-[Excel](https://github.com/pricmendes/dashs/tree/excel)
+<br>
 
-[PowerBi](https://github.com/pricmendes/dashs/tree/PBI)
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Análises e Otimizações em SQL** | Coleção de scripts, procedures e otimizações de queries que desenvolvi para aprimorar o desempenho de bancos de dados. | <a href="https://pricmendes.github.io/SQL/">**Ver Projeto**</a> |
+| **Dashboards Interativos** | Dashboards desenvolvidos em Power BI e Excel para visualização e análise de dados de diferentes cenários de negócio. | <a href="https://pricmendes.github.io/dashs/">**Ver Projeto**</a> |
+| **Automações com VBA** | Scripts em VBA para automatizar tarefas repetitivas no Microsoft Office, aumentando a produtividade e reduzindo erros manuais. | <a href="https://pricmendes.github.io/VBA/">**Ver Projeto**</a> |
+| **Estudos em Estruturas de Dados, Python e Airflow** | Repositório com anotações e códigos práticos dos meus estudos sobre estruturas de dados em Python e orquestração de pipelines com Apache Airflow. | <a href="https://pricmendes.github.io/estudos/">**Ver Projeto**</a> |
 
-SQL
-
-[Python Estrutura de Dados](https://github.com/pricmendes/estudos/blob/estudos/Estrutura_de_Dados.md)
-
-[Python Diversos Estudos](https://github.com/pricmendes/estudos/blob/estudos/lista_tarefas_e_outros.md)
-
-[Airflow](https://github.com/pricmendes/estudos/blob/estudos/Airflow.md)
 
 
 <!--
