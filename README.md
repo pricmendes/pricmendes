@@ -14,11 +14,22 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,mysql,postgres,gcp,docker" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=powershell,excel,powerbi,vba,airflow" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,mysql,postgres,gcp,docker,powershell" height="40"/>
+  </a>
+
+  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" alt="Microsoft Power BI" height="40"/>
+  </a>
+  
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
+    <img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" alt="Microsoft Excel" height="40"/>
+  </a>
+  
+  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/word.svg" alt="VBA" height="40">
   </a>
 </p>
+
 
 ---
 
