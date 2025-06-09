@@ -14,7 +14,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,mysql,postgres,gcp,docker,powershell" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,mysql,postgres,aws,gcp,docker,powershell" height="40"/>
   </a>
 
   <a href="https://powerbi.microsoft.com/pt-br/" target="_blank">
